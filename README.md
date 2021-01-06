@@ -1,2 +1,1 @@
-# makeupday
- (https://designofc.stackblitz.io/)
+# makeupday  (https://designofc.stackblitz.io/)
